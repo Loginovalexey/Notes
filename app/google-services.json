@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "349372015432",
+    "firebase_url": "https://mynotes-be198.firebaseio.com",
+    "project_id": "mynotes-be198",
+    "storage_bucket": "mynotes-be198.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349372015432:android:e46ac83ccffdbd6a0a497d",
+        "android_client_info": {
+          "package_name": "ru.alapplications.kotlin.mynotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "349372015432-oe14b3ssovv96f1kf86c7ab9ud3jqkb8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ru.alapplications.kotlin.mynotes",
+            "certificate_hash": "ce35708b7b7849b3e3cea1ebf8a70240c0cc958b"
+          }
+        },
+        {
+          "client_id": "349372015432-bjpe48sh0bn96q9so4k5ei95fegab025.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLBifHUF29DIY8XdlKNq5wNTCjQL-6jv0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "349372015432-bjpe48sh0bn96q9so4k5ei95fegab025.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
